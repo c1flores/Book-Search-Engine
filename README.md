@@ -47,5 +47,10 @@ Web behemoths like Facebook and Google are moving at a breakneck speed to make l
 - [Link to app]()
 
 ## Installation
-
+  1. Fork and clone repository to local machine. 
+  2. Open integrated terminal in personal IDE.
+  3. Run ```npm install``` in the highest level of the root directory to install all the necessary dependencies. 
+    
 ## Usage
+  1. Open integrated terminal in personal IDE.
+  2. Run ```npm run develop``` to start a local development server and to compile required static assets. 
