@@ -8,7 +8,7 @@
 - [Why does a GraphQL API built with an Apollo Server matter?](#why-does-a-graphql-api-built-with-an-apollo-server-matter)
 - [Technologies](#technologies)
 - [Screen Capture](#screen-capture)
-- [Deployment](#deployment)
+- [Live Application](#live-application)
 - [Installation](#installation)
 - [Usage](#usage)
 
@@ -42,9 +42,10 @@ Web behemoths like Facebook and Google are moving at a breakneck speed to make l
 </br>
 
 ## Screen Capture
+![](https://github.com/c1flores/Book-Search-Engine/blob/main/client/public/assets/Walkthrough.gif)
 
-## Deployment
-- [Link to app]()
+## Live Application
+[Link](https://book-searchh-engine.herokuapp.com/)
 
 ## Installation
   1. Fork and clone repository to local machine. 
