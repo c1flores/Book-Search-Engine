@@ -44,7 +44,6 @@ Web behemoths like Facebook and Google are moving at a breakneck speed to make l
 ## Screen Capture
 
 ## Deployment
-
 - [Link to app]()
 
 ## Installation
